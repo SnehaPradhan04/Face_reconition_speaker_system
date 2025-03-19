@@ -24,7 +24,7 @@ This project involves creating an advanced face recognition and greeting system,
 
 - **Frontend Tools :-** Employed HTML, CSS, Bootstrap, and JavaScript to build an interactive frontend that shows real-time face detection results.
 
-![Screenshot from 2024-07-04 16-58-45](https://github.com/user-attachments/assets/390e117d-4c35-452c-ac49-bb6736e861c8)
+
 
 
 ## Advanced Model and Hardware Integration
